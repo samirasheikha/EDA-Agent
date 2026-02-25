@@ -19,6 +19,14 @@ LLMs don’t think. They follow instructions—precisely. Ambiguity confuses the
 A system prompt can even be 1000s lines (like https://app.prompthub.us/prompthub/cline-system-prompt)! So there are two ways to add them into an agent, which are in the agent or add from a  text file. Also, for long prompts, you can split different parts of it to differents txt files like tools, instructions, examples, and then add them into the agent code respectively. (for more, see Good Prompts file )
 
 
+Good sources to read about:
 
 
+https://docs.uipath.com/agents/automation-cloud/latest/user-guide/agent-prompts 
+
+https://documentation.sysaid.com/docs/writing-effective-prompts-for-ai-agent-creation
+
+https://www.freecodecamp.org/news/how-to-write-effective-prompts-for-ai-agents-using-langbase/
+
+https://www.prompthub.us/blog/prompt-engineering-for-ai-agents
 
